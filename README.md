@@ -5,3 +5,4 @@ Learn more about my project here: https://www.demystify-color.com/post/film-prof
 
 Adapted the original files from Seckin Sinanlsik: https://github.com/SeckinSinanIsik/DuckAfterDuck-Open-Film-Carrier
 Kaur Hendrikson (https://store.kaurh.com/) helped with fixing and adapting the STL! Thank you😊 
+I needed to adapt the film carrier as I'm not using it for scanning negative, but reading the densities of film with a Spectrophotometer. 
